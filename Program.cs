@@ -12,7 +12,18 @@ namespace PowersTable
 
             while (runProgram == true)
             {
-                chartTable();
+                Console.WriteLine("Enter an integer: ");
+                int numInput = int.Parse(Console.ReadLine());
+                Console.WriteLine("");
+
+
+                if (numInput <= 0 || numInput > 1290)
+                {
+                    Console.WriteLine($"{numInput} is not vaid input.");
+                    continue;
+                }
+               
+                chartTable(numInput);
                 Console.WriteLine("");
 
                 Console.WriteLine("Continue? (y/n)");
@@ -25,23 +36,15 @@ namespace PowersTable
             }
         }
 
-        public static void chartTable()
-        { 
-            Console.WriteLine("Enter an integer: ");
-            int numInput = int.Parse(Console.ReadLine());
-            Console.WriteLine("");
-
-            if (numInput <= 0 || numInput >= 1290)
-            {
-                Console.WriteLine($"{numInput} is not vaid input.");
-            }
-
+        public static void chartTable(int numInput)
+        {
             Console.WriteLine("Number\tSquared\tCubed");
             Console.WriteLine("=====\t=====\t=====");
             
             for (int i = 1; i <= numInput; i++)
             //Max Int is 1290
             {
+
                 int square = i * i;
                 int cube = square * i;
                 Console.WriteLine($"{i} \t {square} \t {cube}");
