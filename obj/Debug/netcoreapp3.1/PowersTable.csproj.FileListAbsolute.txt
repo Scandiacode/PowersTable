@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.exe
+C:\Users\logan\source\repos\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.deps.json
+C:\Users\logan\source\repos\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.runtimeconfig.json
+C:\Users\logan\source\repos\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.runtimeconfig.dev.json
+C:\Users\logan\source\repos\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.dll
+C:\Users\logan\source\repos\PowersTable\bin\Debug\netcoreapp3.1\PowersTable.pdb
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.AssemblyInfo.cs
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.dll
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.pdb
+C:\Users\logan\source\repos\PowersTable\obj\Debug\netcoreapp3.1\PowersTable.genruntimeconfig.cache
